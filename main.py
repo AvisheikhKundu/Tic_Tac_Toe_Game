@@ -11,9 +11,11 @@ Green_color = '#7BC043'
 
 
 class Tic_Tac_Toe():
+    
     # ------------------------------------------------------------------
     # Initialization Functions:
     # ------------------------------------------------------------------
+    
     def __init__(self):
         self.window = Tk()
         self.window.title('Tic-Tac-Toe')
